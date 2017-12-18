@@ -9,3 +9,11 @@ Why might you want to always pull changes manually rather than having Git automa
 I might be working on a different version of the same files which i dont wish to upload or change on the remoter repository. If git
 automatically stays up to date with my remote repository, then there can be instances where my working data might be lost or some unwanted 
 changes might take place in my local repository which i may not want.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks basically copies someone else's repository on github to your own repository on github itself with a link to the original repository to
+whom it belonged. Cloning on the other hand copies the whole repository from github to your local computer or from one place to another 
+place within a computer without a clear reference as to from whom has it been copied. Branches on the other hand emerge from the master node.
+It can be made to do some different changes than the ongoing work in the master branch.
+
