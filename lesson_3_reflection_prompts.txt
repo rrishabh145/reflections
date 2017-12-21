@@ -22,3 +22,9 @@ What is the benefit of having a copy of the last known state of the remote store
 It will help in keeping a track of the last update that was made on github. It will be helpfull as we can know what changes we did in our 
 local repository compared to the last updates online repository. It can also help if there are changes made on both the local repository and 
 the online repository over a period of time and we try to merge the two either online on github or locally.  
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If git and github was not an option, then i would frequently use mailing the files and codes to the contributers on a regular basis. In my 
+opinion, that method wouldve been very tedious, hard and problematic. It is and will be much much easier to use git and github to 
+collaborate on a project.
