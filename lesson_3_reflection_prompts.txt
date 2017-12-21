@@ -17,3 +17,8 @@ whom it belonged. Cloning on the other hand copies the whole repository from git
 place within a computer without a clear reference as to from whom has it been copied. Branches on the other hand emerge from the master node.
 It can be made to do some different changes than the ongoing work in the master branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It will help in keeping a track of the last update that was made on github. It will be helpfull as we can know what changes we did in our 
+local repository compared to the last updates online repository. It can also help if there are changes made on both the local repository and 
+the online repository over a period of time and we try to merge the two either online on github or locally.  
