@@ -28,3 +28,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 If git and github was not an option, then i would frequently use mailing the files and codes to the contributers on a regular basis. In my 
 opinion, that method wouldve been very tedious, hard and problematic. It is and will be much much easier to use git and github to 
 collaborate on a project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would make changes in a seperate branch when i will be trying something in the files which arent supposed to be in the master branch at 
+all. It can be a totally different feature of a program that i may want to try but wont want to add in the main master branch. This might be 
+at times tedious as there are a lot of things that are suposed to be kept in mind while doing work on a seperate branch rather than making 
+changes in the master branch.
